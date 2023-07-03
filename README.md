@@ -2,7 +2,7 @@
 Touchsy Pico W Capacitive - the ultimate display solution for users who want an onboard controller with a versatile programming platform. In this github repo you will find hardware files for 3.2" Touchsy Pico W Capacitive hardware.
 
 Standard 3.2" LCD touch panels with capacitive and resistive touch choices are available. Also, this has several Hardware Compatibility choices to accommodate the whole Hardware Community. 
-<img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/Touchsy.png?v=1676717838"/>
+<img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/PICOBANNER.jpg?v=1688108042"/>
 
 ## Repository Contents
 
